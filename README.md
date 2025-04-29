@@ -13,5 +13,5 @@ Random Forest: 30% accuracy
 
 While SVM and Logistic Regression showed moderate performance, Random Forest underperformed significantly on this dataset, likely due to the high-dimensional nature of facial image data.
 
-Future Work
+# Future Work
 In the next phase of this project, I plan to implement deep learning models, specifically Convolutional Neural Networks (CNNs), which are better suited for image classification tasks. This approach is expected to significantly improve accuracy and overall recognition performance.
