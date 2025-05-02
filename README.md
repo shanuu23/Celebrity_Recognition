@@ -17,5 +17,5 @@ While SVM and Logistic Regression showed moderate performance, Random Forest und
 
 # DL model Performance
 
-This project uses ResNet18 as the backbone for the celebrity classification task. By fine-tuning the model on a curated dataset of cropped celebrity faces and applying appropriate preprocessing (including ImageNet-standard normalization), the model achieved a validation accuracy of 94%. The training process incorporated techniques such as early stopping and train/validation/test splitting to ensure generalization and robust performance on unseen data.
+ResNet18 is used as the backbone for the celebrity classification task. By fine-tuning the model on a curated dataset and applying appropriate preprocessing, the model achieved a validation accuracy of 94%. The training process incorporated techniques such as early stopping and train/validation/test splitting to ensure generalization and robust performance on unseen data.
 
